@@ -1,9 +1,9 @@
 # Data for: Mining Product Reviews for Important Product Features of Refurbished iPhones
 
 This repository contains the data files used in our paper:
-**"[Mining Product Reviews for Important Product Features of Refurbished iPhones]"**  
+**"Mining Product Reviews for Important Product Features of Refurbished iPhones"**  
 Authors: Atefeh Anisi, Gul Okudan-Kremer, Sigurdur Olafsson  
-Published in: [Information], [2025]
+Published in: Information, 2025
 
 ## Files
 - `Raw Reviews_Refurbished iPhones_Amazon.csv`: Raw Data for Refurbished iPhones Extracted from Amazon
