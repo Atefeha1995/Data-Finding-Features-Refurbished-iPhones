@@ -1,4 +1,4 @@
-# Data for: [Mining Product Reviews for Important Product Features of Refurbished iPhones]
+# Data for: Mining Product Reviews for Important Product Features of Refurbished iPhones
 
 This repository contains the data files used in our paper:
 **"[Mining Product Reviews for Important Product Features of Refurbished iPhones]"**  
